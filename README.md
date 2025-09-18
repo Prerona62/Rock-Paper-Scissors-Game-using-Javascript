@@ -1,4 +1,4 @@
-✊Rock, ✋Paper, ✌️Scissors Game
+# ✊Rock, ✋Paper, ✌️Scissors Game
 
 Play a quick and fun game of Rock, Paper, Scissors against the computer! 🖐️
 See who wins, reset, and try again!
